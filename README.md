@@ -1,7 +1,7 @@
 # 1. Project Title: RollingEyes
 Rolling Eyes project mimics our natural eye. The eye moves in the direction where users point their mouse. Javascript, CSS and HTML allow creation of such amazing staffs that could be applied to meet our needs. Rolling eyes rotates balck balls inside white elliptical shape 
    Here is screenshot that shows what rolling eyes looks like when user would open it on their browser
-    ![Bus stop trucker screenshot](./imgs/rolling_eyes.png "alternate image")
+    ![Rolling eyes screenshot](./rolling_eyes.png "alternate image")
 # 2. Motivation
    This is learning setup. This appilcation could not accomplish anything benefical than learning. 
 # 3. Build Status
